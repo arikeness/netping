@@ -1,1 +1,1 @@
-<img src="Görseller/ping1" width="1000">
+<img src="Görseller\ping1" width="1000">
