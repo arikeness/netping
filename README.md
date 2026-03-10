@@ -1,1 +1,1 @@
-<img src="ekran_goruntusu.png" width="1000">
+<img src="ping1" width="1000">
